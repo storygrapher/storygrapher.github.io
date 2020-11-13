@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: john-seb.github.io/sitemap.xml
