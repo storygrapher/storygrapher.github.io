@@ -3,9 +3,9 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
-title = "Experience"
+title = "Research Experience"
 subtitle = ""
 
 # Date format for experience
@@ -18,27 +18,20 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Engineer - Research"
+  company = "MRF Reseach Center, MRF Tyres Ltd"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Chennai"
+  date_start = "2017-07-17"
+  date_end = "2020-09-20"
   description = """
-  Responsibilities include:
+  Projects:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Flat Trac machine simulation procedure for Dynamic Modelling of Motorcycle tyres
+  * Analysis of instrumentation data (RaceLogic VBOX DAS) for predictive modelling of race track performance	
+  * Image analysis methods to estimate complex deformations at the tyre contact patch
+  * Numerical Optimisation of cross ply motorcycle tyres gemetry using Class Shape Transformation (CST) parameterisation
   """
 
-[[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++

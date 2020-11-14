@@ -1,18 +1,18 @@
 +++
-# A Recent Publications section created with the Pages widget.
-# This section displays recent blog posts from `content/publication/`.
+# pdf of presentations.
+# This section displays recent blog posts from `content/presentations/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
+active = true # Activate this widget? true/false
+weight = 50  # Order that this section will appear.
 
-title = "Recent Publications"
+title = "Presentations"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "publication"
+  page_type = "talk"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
@@ -45,8 +45,8 @@ subtitle = ""
   #   Choose a light or dark text color by setting `text_color_light`.
   #   Any HTML color name or Hex value is valid.
     
-  # Background color.
-  # color = "navy"
+  #Background color.
+   color = "#bdf0e1"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
@@ -67,6 +67,4 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+
