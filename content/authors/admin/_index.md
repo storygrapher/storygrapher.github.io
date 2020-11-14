@@ -20,6 +20,7 @@ interests:
 - Fluid Mechanics
 - Composite Materials
 - Experimental Development
+- Mathematical Modelling 
 
 # education:
  # courses:

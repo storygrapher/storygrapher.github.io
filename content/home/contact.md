@@ -1,30 +1,14 @@
----
-# An instance of the Contact widget.
-# Documentation: https://sourcethemes.com/academic/docs/page-builder/
-widget: contact
-active = false
-# This file represents a page section.
-headless: true
++++
+# Contact widget.
+widget = "Contact"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true # Activate this widget? true/false
+weight = 30  # Order that this section will appear.
 
-# Order that this section appears on the page.
-weight: 130
+title = "Contact"
+subtitle = ""
 
-title: Contact
-subtitle:
-
-content:
-  # Automatically link email and phone or display as text?
-  autolink: true
-  
-  # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
-  
-design:
-  columns: '2'
----
+[[item]]
+- icon: envelope
+  icon_pack: fas
+  link: '/#contact'  # For a direct email link, use "mailto:4johnsebastian@gmail.com".
