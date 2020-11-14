@@ -21,7 +21,7 @@ interests:
 - Composite Materials
 - Experimental Development
 
-education:
+#education:
  # courses:
   #- course: BTech in Mechanical Engineering 
    # institution: College of Engineering Trivandrum, University of Kerala
