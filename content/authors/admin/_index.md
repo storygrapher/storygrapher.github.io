@@ -21,11 +21,11 @@ interests:
 - Composite Materials
 - Experimental Development
 
-#education:
+# education:
  # courses:
   #- course: BTech in Mechanical Engineering 
    # institution: College of Engineering Trivandrum, University of Kerala
-    year: 2017
+    #year: 2017
  # - course: MEng in Artificial Intelligence
   #  institution: Massachusetts Institute of Technology
    # year: 2009
