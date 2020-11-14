@@ -44,6 +44,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/johnmcseb
+- icon: linkedin
+  icon_pack: fab
+  link: https://linkedin.com/in/john-sebastian
 #- icon: google-scholar
  # icon_pack: ai
   #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -54,7 +57,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: media/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
