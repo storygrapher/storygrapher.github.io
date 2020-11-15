@@ -41,7 +41,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:4johnsebastian@gmail.com".
+  link: "mailto:4johnsebastian@gmail.com"  # For a direct email link, use "mailto:4johnsebastian@gmail.com".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/johnmcseb
