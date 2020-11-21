@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Mechanics; Applied Mathematics; Engineering for Biology
+About Me: Mechanics; Applied Mathematics; Engineering for Biology
 
 interests:
 - Applied Mechanics
