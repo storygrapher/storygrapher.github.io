@@ -1,23 +1,20 @@
 ---
-title: Example Talk
-event: Academic Theme Conference
-event_url: https://example.org
+title: Microfluidics for the World
+event: IET PATW 2016
+#event_url: https://example.org
 
-location: Source Themes HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+#location: Source Themes HQ
 
-summary: An example talk using Academic's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+#address:
+  #street: 450 Serra Mall
+
+summary: A talk presenting the current works and potential of microfludics as an enabling technology
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2016-06-01T13:00:00Z"
+#date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -37,7 +34,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/johnmcseb
 url_code: ""
 url_pdf: ""
 url_slides: ""
