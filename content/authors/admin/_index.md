@@ -14,13 +14,14 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Applied Mechanics; Engineering for Biology
+bio: Mechanics; Applied Mathematics; Engineering for Biology
 
 interests:
-- Fluid Mechanics
+- Applied Mechanics
 - Composite Materials
 - Experimental Development
 - Mathematical Modelling 
+- Bio Inspired Design
 
 # education:
  # courses:
@@ -73,4 +74,4 @@ highlight_name: false
 #- Visitors
 ---
 
-Hello! I am a scientist and engineer pursuing interdisciplinary research in biophysics, soft matter and composite materials, and complex systems. A common thread in my research is looking for the relation between the geometry and associated physics- especially of air/ hydrofoils, tyres, materials and microfluidic systems. I aim to develop technologies and tools to aid the study of the natural world around us, for engineering of biology and to build solutions to unmet societal needs.
+Hello! I am a scientist and engineer pursuing interdisciplinary research in biophysics, soft matter, composite materials, and complex systems. A common thread in my research is looking for the relation between the geometry and associated physics- especially of air/ hydrofoils, flexible structures, architectured materials and (micro)fluidic systems. I aim to develop technologies and tools to aid the study of the natural world around us, for engineering of biology and to build solutions to unmet societal needs.
