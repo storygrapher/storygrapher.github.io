@@ -3,23 +3,118 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>john-seb.github.io/authors/</loc>
-  </url>
-  
-  <url>
-    <loc>john-seb.github.io/categories/</loc>
-  </url>
-  
-  <url>
     <loc>john-seb.github.io/</loc>
-  </url>
-  
-  <url>
-    <loc>john-seb.github.io/author/john-sebastian/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>john-seb.github.io/post/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>john-seb.github.io/post/writing-technical-content/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>john-seb.github.io/authors/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>john-seb.github.io/post/jupyter/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>john-seb.github.io/author/john-sebastian/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>john-seb.github.io/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>john-seb.github.io/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>john-seb.github.io/tag/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>john-seb.github.io/tag/demo/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>john-seb.github.io/project/external-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>john-seb.github.io/project/internal-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>john-seb.github.io/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>john-seb.github.io/tags/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>john-seb.github.io/tag/academic/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>john-seb.github.io/post/getting-started/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>john-seb.github.io/categories/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>john-seb.github.io/category/demo/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>john-seb.github.io/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>john-seb.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>john-seb.github.io/category/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>john-seb.github.io/talk/example/</loc>
+    <lastmod>2016-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>john-seb.github.io/talk/</loc>
+    <lastmod>2016-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -28,14 +123,6 @@
   
   <url>
     <loc>john-seb.github.io/publication/</loc>
-  </url>
-  
-  <url>
-    <loc>john-seb.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>john-seb.github.io/tags/</loc>
   </url>
   
 </urlset>
