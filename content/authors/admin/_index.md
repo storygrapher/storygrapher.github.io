@@ -14,13 +14,14 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Applied Mechanics; Engineering for Biology
+bio: Mechanics; Applied Mathematics; Engineering for Biology
 
 interests:
-- Fluid Mechanics
+- Applied Mechanics
 - Composite Materials
 - Experimental Development
 - Mathematical Modelling 
+- Bio Inspired Design
 
 # education:
  # courses:
