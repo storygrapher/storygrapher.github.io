@@ -2,31 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>John Sebastian</title>
-    <link>john-seb.github.io/</link>
-      <atom:link href="john-seb.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://john-seb.github.io/john-seb/</link>
+      <atom:link href="https://john-seb.github.io/john-seb/index.xml" rel="self" type="application/rss+xml" />
     <description>John Sebastian</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>John Sebastian 2020</copyright><lastBuildDate>Fri, 27 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>john-seb.github.io/media/prof.jpeg</url>
+      <url>https://john-seb.github.io/john-seb/media/prof.jpeg</url>
       <title>John Sebastian</title>
-      <link>john-seb.github.io/</link>
+      <link>https://john-seb.github.io/john-seb/</link>
     </image>
     
     <item>
       <title>Detection of Microplastics in Inland Waters using Impedance Spectroscopy</title>
-      <link>john-seb.github.io/project/microp/</link>
+      <link>https://john-seb.github.io/john-seb/project/microp/</link>
       <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>john-seb.github.io/project/microp/</guid>
+      <guid>https://john-seb.github.io/john-seb/project/microp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Berliner Breakfast</title>
-      <link>john-seb.github.io/post/berliner-breakfast/</link>
+      <link>https://john-seb.github.io/john-seb/post/berliner-breakfast/</link>
       <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>john-seb.github.io/post/berliner-breakfast/</guid>
-      <description>&lt;p&gt;For many months now, I have had a strange circadian disorder — every morning, I wake up and look at the clock and it reads 6.10 AM, regardless of time zones. Many years ago I’d observed that I couldn’t stay awake beyond 2.15 in the morning. I’d later say all these to my new friends in Vienna and be asked to consult a ‘numerologist’.
-The spring was still hungover and sleepy from an unusually cold winter this year. I woke up at 6.10 and couldn’t go back to sleep. Anyway, to sleep is the last thing one would want to do on the first morning of a long expedition.&lt;/p&gt;
+      <guid>https://john-seb.github.io/john-seb/post/berliner-breakfast/</guid>
+      <description>&lt;div class=text-justify&gt; 
+For many months now, I have had a strange circadian disorder — every morning, I wake up and look at the clock and it reads 6.10 AM, regardless of time zones. Many years ago I’d observed that I couldn’t stay awake beyond 2.15 in the morning. I’d later say all these to my new friends in Vienna and be asked to consult a ‘numerologist’.
+The spring was still hungover and sleepy from an unusually cold winter this year. I woke up at 6.10 and couldn’t go back to sleep. Anyway, to sleep is the last thing one would want to do on the first morning of a long expedition.
 &lt;p&gt;I left the warm lobby of the Corner Hostel on Driesener Street and walked aimlessly. Joining the flow of brisk walkers, many of them frequently pulling their left palm out from the pocket, quickly gawping at the watch, I walked around a park with curious statues and reached a tram bus station. A bus in classical red and yellow waited for office folk, garbed in winter attire, running sluggishly to the stop. An elderly man on a bicycle, a Centaur-ly frame altogether, rubbed his palms and blew into his fists as he waited for the green to beam.
 Image for post
 After a couple of hours observing Berlin’s morning routines, I decided it was time to head back. Trusting the arrow on the back of my head, I walked, expecting to find the park with the exotic statues and the red Vespa. The cold was biting into my ears that I imagined the pinnae had turned brittle, and didn’t want to rub them warm, lest I crush them! I badly needed some tea.
@@ -76,14 +77,14 @@ More people were up by now in the hostel, some reading tour brochures with break
 &lt;p&gt;&lt;em&gt;True story.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;*name changed.&lt;/p&gt;
 &lt;p&gt;Published originally on &lt;a href=&#34;http://www.storygrapher.org&#34;&gt;www.storygrapher.org&lt;/a&gt;, ©John Sebastian&lt;/p&gt;
-</description>
+&lt;/div&gt;</description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>john-seb.github.io/slides/example/</link>
+      <link>https://john-seb.github.io/john-seb/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>john-seb.github.io/slides/example/</guid>
+      <guid>https://john-seb.github.io/john-seb/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -207,9 +208,9 @@ Three
     
     <item>
       <title>Big Fish and Blue Genies</title>
-      <link>john-seb.github.io/post/blue-genies/</link>
+      <link>https://john-seb.github.io/john-seb/post/blue-genies/</link>
       <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>john-seb.github.io/post/blue-genies/</guid>
+      <guid>https://john-seb.github.io/john-seb/post/blue-genies/</guid>
       <description>&lt;p&gt;We the ’95 kids have a very trivial privilege – we can remember which class we attended which year. Always. My father buys a lot of books into our ever growing, huge library. And he expects me to read them all! Once, when I was in 5th, he quoted something from “Khazakinte Ithihasam“ (The Legend of Khasak by O V Vijayan) and asked, to my blank face,”haven’t you read it yet? “. I was only ten!&lt;/p&gt;
 &lt;p&gt;It was another rainy June; 2004. The first monsoon had just set in. The rains that begin early in the dawn as a slow shower of tiny droplets, then becoming heavy precipitation when it’s time to leave home for school, and drench you so intimately – keep you cold and at the verge of peeing all through the day.&lt;/p&gt;
 &lt;p&gt;The second bout of rains begins by mid September. During this stretch, the skies send prophecies of unstinting showers every afternoon by sending distant thunders that come closer hour after hour. Finally the sky empties itself as the National Anthem ends and the last bell is rung. You reach home in wet uniforms, under an umbrella that had probably questioned its purpose. The house welcomes you to its cozy darkness and the aroma of hot coffee and fried snacks. (Branchy trees flanking the streets would embrace the electric lines and short circuit the entire village. Electricity wouldn’t return until very late).&lt;/p&gt;
@@ -254,9 +255,9 @@ Three
     
     <item>
       <title>Rapid and Low- Cost Fabrication of Microfluidic Panels</title>
-      <link>john-seb.github.io/project/microf/</link>
+      <link>https://john-seb.github.io/john-seb/project/microf/</link>
       <pubDate>Sat, 30 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>john-seb.github.io/project/microf/</guid>
+      <guid>https://john-seb.github.io/john-seb/project/microf/</guid>
       <description>&lt;p&gt;Development of a frugal alternative to the expensive lithographic methods that are the state-of-the-art in the fabrication of microfluidic panels.
 This approach makes use of a direct cutting scheme in which the device is divided into several 2D panels. Microfluidic channels are narrow as 150 micrometers could be made on these layers with the required precision using a craft cutter with a modified tip.&lt;/p&gt;
 </description>
@@ -264,9 +265,9 @@ This approach makes use of a direct cutting scheme in which the device is divide
     
     <item>
       <title>Microfluidics for the World</title>
-      <link>john-seb.github.io/talk/microf1/</link>
+      <link>https://john-seb.github.io/john-seb/talk/microf1/</link>
       <pubDate>Tue, 19 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>john-seb.github.io/talk/microf1/</guid>
+      <guid>https://john-seb.github.io/john-seb/talk/microf1/</guid>
       <description>&lt;object data=&#34;https://john-seb.github.io/media/microf1.pdf&#34; type=&#34;application/pdf&#34; width=&#34;700px&#34; height=&#34;700px&#34;&gt;
     &lt;embed src=&#34;https://john-seb.github.io/media/microf1.pdf&#34;&gt;
         &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&#34;https://john-seb.github.io/media/microf1.pdf&#34;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
@@ -276,9 +277,9 @@ This approach makes use of a direct cutting scheme in which the device is divide
     
     <item>
       <title>Film-Evaporation Microthruster for Cubesats</title>
-      <link>john-seb.github.io/talk/microt/</link>
+      <link>https://john-seb.github.io/john-seb/talk/microt/</link>
       <pubDate>Mon, 11 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>john-seb.github.io/talk/microt/</guid>
+      <guid>https://john-seb.github.io/john-seb/talk/microt/</guid>
       <description>&lt;object data=&#34;https://john-seb.github.io/media/microt1.pdf&#34; type=&#34;application/pdf&#34; width=&#34;700px&#34; height=&#34;700px&#34;&gt;
     &lt;embed src=&#34;https://john-seb.github.io/media/microt1.pdf&#34;&gt;
         &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&#34;https://john-seb.github.io/media/microt1.pdf&#34;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
