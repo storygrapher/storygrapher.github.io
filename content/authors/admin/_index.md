@@ -77,4 +77,4 @@ highlight_name: false
 
 Hello! I am a scientist and engineer pursuing interdisciplinary research in biophysics, soft matter, composite materials, and complex systems. A common thread in my research is looking for the relation between geometry (at smaller and smaller scales) and the associated physics- especially of air/ hydrofoils, flexible structures, architectured materials and (micro)fluidic systems. I aim to develop technologies and tools to aid the study of the natural world around us, for the engineering of biology and to build solutions to unmet societal needs.
 
-*(Building this sit a few kilobytes at a time! On the journey to completeness)*
+*(Building this site a few kilobytes at a time! On the journey to completeness)*
