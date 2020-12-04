@@ -1,6 +1,7 @@
 ---
 title: 'Berliner Breakfast'
 subtitle: I wasn’t prepared for Berlin. In fact no one is. No one ever was.
+summary: I wasn’t prepared for Berlin. In fact no one is. No one ever was.
 
 authors: 
 - admin

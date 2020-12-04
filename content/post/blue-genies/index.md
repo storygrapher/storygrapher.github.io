@@ -1,6 +1,7 @@
 ---
 title: 'Big Fish and Blue Genies'
 subtitle: I knew it was my last day, that I\'d be gone forever. I remembered that I was wearing all- whites, as a proper dead man should be.
+summary: I knew it was my last day, that I\'d be gone forever. I remembered that I was wearing all- whites, as a proper dead man should be.
 
 authors: 
 - admin
