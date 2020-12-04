@@ -1,18 +1,17 @@
 ---
-title: 'Academic: the website builder for Hugo'
-subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: Create a beautifully simple website in under 10 minutes.
-authors:
+title: 'Big Fish and Blue Genies'
+authors: 
 - admin
-- 吳恩達
+
 tags:
-- Academic
-- 开源
+- childhood
+- storytelling
+- memories
 categories:
-- Demo
-- 教程
-date: "2016-04-20T00:00:00Z"
-lastmod: "2019-04-17T00:00:00Z"
+- storygrapher
+- blog
+date: "2018-12-08T00:00:00Z"
+
 featured: false
 draft: false
 
