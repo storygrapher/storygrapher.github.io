@@ -1,5 +1,7 @@
 ---
 title: 'Big Fish and Blue Genies'
+subtitle: I knew it was my last day, that I\'d be gone forever. I remembered that I was wearing all- whites, as a proper dead man should be.
+
 authors: 
 - admin
 
@@ -10,7 +12,7 @@ tags:
 categories:
 - storygrapher
 - blog
-date: "2018-12-08T00:00:00Z"
+date: "2018-12-12T00:00:00Z"
 
 featured: false
 draft: false
@@ -38,6 +40,9 @@ We the ’95 kids have a very trivial privilege – we can remember which class 
 It was another rainy June; 2004. The first monsoon had just set in. The rains that begin early in the dawn as a slow shower of tiny droplets, then becoming heavy precipitation when it’s time to leave home for school, and drench you so intimately – keep you cold and at the verge of peeing all through the day.
 
 The second bout of rains begins by mid September. During this stretch, the skies send prophecies of unstinting showers every afternoon by sending distant thunders that come closer hour after hour. Finally the sky empties itself as the National Anthem ends and the last bell is rung. You reach home in wet uniforms, under an umbrella that had probably questioned its purpose. The house welcomes you to its cozy darkness and the aroma of hot coffee and fried snacks. (Branchy trees flanking the streets would embrace the electric lines and short circuit the entire village. Electricity wouldn’t return until very late).
+| ![**John Sebastian**](./map.jpg) | 
+|:--:| 
+| *Our valley in the summer. Courtesy: Google Earth. Sadly the location of the Yellow Bridge on the map is wrong. * |
 
 
 
@@ -47,8 +52,11 @@ The saddest aspect of going to school then wasn’t the monsoon. It was that the
 
 In the evenings we’d run along the road across the vast fields that filled the valley and the canal cleaving it. And we’d go out, even without changing, to race paper boats, to jump into the overflowing stream from the canopy hiding it from the Yellow Bridge,and finally sit on the concrete ridges (which had just been built then) of the canal that ran to the center of the paddy fields. The concrete ridges were taller than the clay bunds, carried a lot of water and its flat top would dry quickly after a rain. We’d dangle our legs in the water, feel the hydrillia tangle about the toes and watch tiny fish race past, constantly struggling to fight the virile monsoon gush.
 
+| ![**John Sebastian**](./bridge.jpg) | 
+|:--:| 
+| *The landscape reminded me of home.*|
 
-Our valley in the summer. Courtesy: Google Earth. Sadly the location of the Yellow Bridge on the map is wrong.
+
 The canal opens out at the middle of the paddy fields into a deep ‘sinkhole’ from where water traverses to all directions, overflowing over bunds. Tiny islands of clay with an overgrowth of paddy and grass float around on its relatively stagnant boundaries.
 
 One Wednesday, we were on the ridge, kicking water at each other, when one of our aunts called us in. I pulled myself out and immediately noticed that I was limping. Instinctively, I looked into the canal and saw my left sandal sailing downstream crazily. The current was fierce, but I was never the guy who gave up! (Still not!) I started chasing it, grabbed a piece of branch that my brother threw towards me and plunged it over the fleeing footwear. And missed. As I gained speed, my legs took over. It felt like riding a mad contraption. Sans brakes.
