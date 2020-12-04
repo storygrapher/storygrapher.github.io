@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>travel | John Sebastian</title>
-    <link>https://john-seb.github.io/john-seb/tag/travel/</link>
-      <atom:link href="https://john-seb.github.io/john-seb/tag/travel/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://john-seb.github.io/tag/travel/</link>
+      <atom:link href="https://john-seb.github.io/tag/travel/index.xml" rel="self" type="application/rss+xml" />
     <description>travel</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>John Sebastian 2020</copyright><lastBuildDate>Mon, 02 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://john-seb.github.io/john-seb/media/prof.jpeg</url>
+      <url>https://john-seb.github.io/media/prof.jpeg</url>
       <title>travel</title>
-      <link>https://john-seb.github.io/john-seb/tag/travel/</link>
+      <link>https://john-seb.github.io/tag/travel/</link>
     </image>
     
     <item>
       <title>Berliner Breakfast</title>
-      <link>https://john-seb.github.io/john-seb/post/berliner-breakfast/</link>
+      <link>https://john-seb.github.io/post/berliner-breakfast/</link>
       <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://john-seb.github.io/john-seb/post/berliner-breakfast/</guid>
+      <guid>https://john-seb.github.io/post/berliner-breakfast/</guid>
       <description>&lt;div class=text-justify&gt; 
 For many months now, I have had a strange circadian disorder — every morning, I wake up and look at the clock and it reads 6.10 AM, regardless of time zones. Many years ago I’d observed that I couldn’t stay awake beyond 2.15 in the morning. I’d later say all these to my new friends in Vienna and be asked to consult a ‘numerologist’.
 The spring was still hungover and sleepy from an unusually cold winter this year. I woke up at 6.10 and couldn’t go back to sleep. Anyway, to sleep is the last thing one would want to do on the first morning of a long expedition.
