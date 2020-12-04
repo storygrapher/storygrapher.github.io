@@ -36,11 +36,12 @@ image:
 # projects: []
 ---
 <div class=text-justify> 
-For many months now, I have had a strange circadian disorder — every morning, I wake up and look at the clock and it reads 6.10 AM, regardless of time zones. Many years ago I’d observed that I couldn’t stay awake beyond 2.15 in the morning. I’d later say all these to my new friends in Vienna and be asked to consult a ‘numerologist’.
 
-The spring was still hungover and sleepy from an unusually cold winter this year. I woke up at 6.10 and couldn’t go back to sleep. Anyway, to sleep is the last thing one would want to do on the first morning of a long expedition.
+For many months now, I have had a strange circadian disorder — every morning, I wake up and look at the clock and it reads 6.10 AM, regardless of time zones. Many years ago I’d observed that I couldn’t stay awake beyond 2.15 in the morning. I’d later say all these to my new friends in Vienna and be asked to consult a ‘numerologist’. 
 
-I left the warm lobby of the Corner Hostel on Driesener Street and walked aimlessly. Joining the flow of brisk walkers, many of them frequently pulling their left palm out from the pocket, quickly gawping at the watch, I walked around a park with curious statues and reached a tram bus station. A bus in classical red and yellow waited for office folk, garbed in winter attire, running sluggishly to the stop. An elderly man on a bicycle, a Centaur-ly frame altogether, rubbed his palms and blew into his fists as he waited for the green to beam.
+The spring was still hungover and sleepy from an unusually cold winter this year. I woke up at 6.10 and couldn’t go back to sleep. Anyway, to sleep is the last thing one would want to do on the first morning of a long expedition. 
+
+I left the warm lobby of the Corner Hostel on Driesener Street and walked aimlessly. Joining the flow of brisk walkers, many of them frequently pulling their left palm out from the pocket, quickly gawping at the watch, I walked around a park with curious statues and reached a tram bus station. A bus in classical red and yellow waited for office folk, garbed in winter attire, running sluggishly to the stop. An elderly man on a bicycle, a Centaur-ly frame altogether, rubbed his palms and blew into his fists as he waited for the green to beam.  
 
 After a couple of hours observing Berlin’s morning routines, I decided it was time to head back. Trusting the arrow on the back of my head, I walked, expecting to find the park with the exotic statues and the red Vespa. The cold was biting into my ears that I imagined the pinnae had turned brittle, and didn’t want to rub them warm, lest I crush them! I badly needed some tea.
 
@@ -48,7 +49,7 @@ More people were up by now in the hostel, some reading tour brochures with break
 
 “I’m Andhrey”, he said.
 
-“Hi Andrew, I’m John”.
+“Hi Andre, I’m John”.
 
 “Iovan?”
 
@@ -60,7 +61,7 @@ We shook hands. It wasn’t just a firm handshake. I could feel my finger bones 
 
 I loaded the kettle as he shove the meatballs into the oven. He went out. The studious guy let his eyes follow Andre to the door. I went on with the futile search for a bag of tea and sugar. The tea paraphernalia was arranged on a table by a corner in the common area. I sifted through a bunch of packets of blasphemous ‘tea’ flavours — fruit, chamomile, hibiscus… Well, Earl Greys, all of the same shade, were in a separate tray.
 
-And Andrew was back, “Iovan, where you from?”
+And Andre was back, “Iovan, where you from?”
 
 “India. You?”
 
@@ -94,11 +95,11 @@ I froze.
 
 “They’ll kill me if I go back. Or give me life imprisonment”
 
-I suddenly became aware of my odd sitting position- with the left leg stretched under the table and the right resting on the other lap. I dragged the stretched leg close. It sounded so loud. I became aware of Me’s gaze, who was probably amused by the strange exchange. I resorted to a long sip from my huge tea cup, which in doing so, managed to cover most of my face. Andrew seemed to look away, like a person who thinks he is being judged.
+I suddenly became aware of my odd sitting position- with the left leg stretched under the table and the right resting on the other lap. I dragged the stretched leg close. It sounded so loud. I became aware of Me’s gaze, who was probably amused by the strange exchange. I resorted to a long sip from my huge tea cup, which in doing so, managed to cover most of my face. Andre seemed to look away, like a person who thinks he is being judged.
 
 One of the most troubling questions I’ve dealt with is how do people come to terms with themselves after they take another’s life, knowingly or unknowingly. There are sayings in many cultures that paraphrase to “the sin of killing is forgiven in eating” and seems to justify dining on meat. It even sounds like an ethical justification suited to anthropophagus communities. A dear friend who’d accidentally hit a stray kitten took him to the vet and made him his pet in reparation. When it is so troubling even with animals, how could one forgive himself for hurting another human?
 
-Andrew pushed the phone to me once again- “they hurt my wife and kid. I couldn’t do anything else at that moment”. He pulled up his sleeves. Long scratch marks all over his elaborate tattoos on both arms. Then pointed to his toothless jaw. “They did this”.
+Andre pushed the phone to me once again- “they hurt my wife and kid. I couldn’t do anything else at that moment”. He pulled up his sleeves. Long scratch marks all over his elaborate tattoos on both arms. Then pointed to his toothless jaw. “They did this”.
 
 I felt sorry for him. There I was talking to a victim of war crimes, fleeing his homeland fearing for his life, cut off from the family. The stories are real, I remember thinking, that these happen still, in this century.
 
@@ -120,8 +121,8 @@ He sat staring at the empty plate. I gulped down the lukewarm tea left.
 
 *True story.*
 
-*name changed.
+**name changed.*
 
-Published originally on www.storygrapher.org, ©John Sebastian
+*Published originally on www.storygrapher.org, ©John Sebastian*
 
 </div>

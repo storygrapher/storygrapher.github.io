@@ -35,6 +35,7 @@ image:
 #   Otherwise, set `projects = []`.
 # projects: []
 ---
+<div class=text-justify> 
 
 We the ’95 kids have a very trivial privilege – we can remember which class we attended which year. Always. My father buys a lot of books into our ever growing, huge library. And he expects me to read them all! Once, when I was in 5th, he quoted something from “Khazakinte Ithihasam“ (The Legend of Khasak by O V Vijayan) and asked, to my blank face,”haven’t you read it yet? “. I was only ten!
 
@@ -78,4 +79,7 @@ As we walked back in a line along the canal, my father, who was holding my finge
 
 
 
-As told to friends at the "Bloom in Green" festival in the beautiful Agumbe, Karnataka, India. The landscape reminded me of home.
+*As told to friends at the "Bloom in Green" festival in the beautiful Agumbe, Karnataka, India. The landscape reminded me of home.*
+*Published originally on www.storygrapher.org, ©John Sebastian*
+
+</div>
