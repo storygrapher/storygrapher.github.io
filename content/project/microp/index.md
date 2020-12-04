@@ -14,4 +14,10 @@ external_link: https://www.notion.so/Team-FishEye-a2dc826721a14dd88e1217f9154f44
 image:
   caption: Flyer by Team FishEye
   focal_point: Smart
+  
+links:
+- icon: site
+  icon_pack: fab
+  name: course site
+  url: http://frugalscience.org/
 ---
