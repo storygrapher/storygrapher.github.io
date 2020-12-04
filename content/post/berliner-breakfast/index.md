@@ -34,7 +34,7 @@ image:
 #   Otherwise, set `projects = []`.
 # projects: []
 ---
-
+<div class=text-justify> 
 For many months now, I have had a strange circadian disorder — every morning, I wake up and look at the clock and it reads 6.10 AM, regardless of time zones. Many years ago I’d observed that I couldn’t stay awake beyond 2.15 in the morning. I’d later say all these to my new friends in Vienna and be asked to consult a ‘numerologist’.
 The spring was still hungover and sleepy from an unusually cold winter this year. I woke up at 6.10 and couldn’t go back to sleep. Anyway, to sleep is the last thing one would want to do on the first morning of a long expedition.
 
@@ -120,3 +120,5 @@ He sat staring at the empty plate. I gulped down the lukewarm tea left.
 *name changed.
 
 Published originally on www.storygrapher.org, ©John Sebastian
+
+</div>
