@@ -5,7 +5,7 @@
     <link>john-seb.github.io/author/john-sebastian/</link>
       <atom:link href="john-seb.github.io/author/john-sebastian/index.xml" rel="self" type="application/rss+xml" />
     <description>John Sebastian</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>John Sebastian 2020</copyright><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>John Sebastian 2020</copyright><lastBuildDate>Mon, 02 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>john-seb.github.io/media/prof.jpeg</url>
       <title>John Sebastian</title>
@@ -13,152 +13,108 @@
     </image>
     
     <item>
-      <title>Display Jupyter Notebooks with Academic</title>
-      <link>john-seb.github.io/post/jupyter/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>john-seb.github.io/post/jupyter/</guid>
-      <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
-Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;print(&amp;quot;Welcome to Academic!&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;Welcome to Academic!
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;install-python-and-jupyterlab&#34;&gt;Install Python and JupyterLab&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.anaconda.com/distribution/#download-section&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Install Anaconda&lt;/a&gt; which includes Python 3 and JupyterLab.&lt;/p&gt;
-&lt;p&gt;Alternatively, install JupyterLab with &lt;code&gt;pip3 install jupyterlab&lt;/code&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;create-or-upload-a-jupyter-notebook&#34;&gt;Create or upload a Jupyter notebook&lt;/h2&gt;
-&lt;p&gt;Run the following commands in your Terminal, substituting &lt;code&gt;&amp;lt;MY-WEBSITE-FOLDER&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;SHORT-POST-TITLE&amp;gt;&lt;/code&gt; with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;mkdir -p &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
-cd &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
-jupyter lab index.ipynb
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;The &lt;code&gt;jupyter&lt;/code&gt; command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.&lt;/p&gt;
-&lt;h2 id=&#34;edit-your-post-metadata&#34;&gt;Edit your post metadata&lt;/h2&gt;
-&lt;p&gt;The first cell of your Jupter notebook will contain your post metadata (&lt;a href=&#34;https://sourcethemes.com/academic/docs/front-matter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;front matter&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;In Jupter, choose &lt;em&gt;Markdown&lt;/em&gt; as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;---
-title: My post&#39;s title
-date: 2019-09-01
-
-# Put any other Academic metadata here...
----
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Edit the metadata of your post, using the &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation&lt;/a&gt; as a guide to the available options.&lt;/p&gt;
-&lt;p&gt;To set a &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
-&lt;p&gt;For other tips, such as using math, see the guide on &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;convert-notebook-to-markdown&#34;&gt;Convert notebook to Markdown&lt;/h2&gt;
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
-&lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
+      <title>Berliner Breakfast</title>
+      <link>john-seb.github.io/post/berliner-breakfast/</link>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>john-seb.github.io/post/berliner-breakfast/</guid>
+      <description>&lt;p&gt;For many months now, I have had a strange circadian disorder — every morning, I wake up and look at the clock and it reads 6.10 AM, regardless of time zones. Many years ago I’d observed that I couldn’t stay awake beyond 2.15 in the morning. I’d later say all these to my new friends in Vienna and be asked to consult a ‘numerologist’.
+The spring was still hungover and sleepy from an unusually cold winter this year. I woke up at 6.10 and couldn’t go back to sleep. Anyway, to sleep is the last thing one would want to do on the first morning of a long expedition.&lt;/p&gt;
+&lt;p&gt;I left the warm lobby of the Corner Hostel on Driesener Street and walked aimlessly. Joining the flow of brisk walkers, many of them frequently pulling their left palm out from the pocket, quickly gawping at the watch, I walked around a park with curious statues and reached a tram bus station. A bus in classical red and yellow waited for office folk, garbed in winter attire, running sluggishly to the stop. An elderly man on a bicycle, a Centaur-ly frame altogether, rubbed his palms and blew into his fists as he waited for the green to beam.
+Image for post
+After a couple of hours observing Berlin’s morning routines, I decided it was time to head back. Trusting the arrow on the back of my head, I walked, expecting to find the park with the exotic statues and the red Vespa. The cold was biting into my ears that I imagined the pinnae had turned brittle, and didn’t want to rub them warm, lest I crush them! I badly needed some tea.
+More people were up by now in the hostel, some reading tour brochures with breakfast. One studious guy sat at a corner typing away, occasionally fiddling with his camera. The Korean girl who’d said “you can call me ‘Me’” was at the table near the kitchen door. A huge man walked into the door, bowing. I followed him into the kitchen. He pulled down the hood of his shabby grey sweatshirt and pulled out a bag of meatballs and a can of beer from a brown paper bag. I wrung a vague smile.&lt;/p&gt;
+&lt;p&gt;“I’m Andhrey”, he said.&lt;/p&gt;
+&lt;p&gt;“Hi Andrew, I’m John”.&lt;/p&gt;
+&lt;p&gt;“Iovan?”&lt;/p&gt;
+&lt;p&gt;“Umm, yes”. Strange way to pronounce such a common name, I thought.&lt;/p&gt;
+&lt;p&gt;We shook hands. It wasn’t just a firm handshake. I could feel my finger bones against each other. But the first thing anyone would notice about him is his teeth, of which none but the two canines are left on the upper jaw. Strikingly conspicuous features of a mutilated, shaggy animal, which seems to yell ‘keep away’. I realised I was talking to a broken man, a hurt beast.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;./berlin1.jpg&#34; alt=&#34;John Sebastian&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;/table&gt;
+&lt;p&gt;I loaded the kettle as he shove the meatballs into the oven. He went out. The studious guy let his eyes follow Andre to the door. I went on with the futile search for a bag of tea and sugar. The tea paraphernalia was arranged on a table by a corner in the common area. I sifted through a bunch of packets of blasphemous ‘tea’ flavours — fruit, chamomile, hibiscus… Well, Earl Greys, all of the same shade, were in a separate tray.&lt;/p&gt;
+&lt;p&gt;And Andrew was back, “Iovan, where you from?”&lt;/p&gt;
+&lt;p&gt;“India. You?”&lt;/p&gt;
+&lt;p&gt;“I’m Russian. From Ukraine. Many Indian students in Ukraine. Are you student?”&lt;/p&gt;
+&lt;p&gt;“No, not a student now.”&lt;/p&gt;
+&lt;p&gt;He went to the kitchen and came back with two plates and sat opposite to me. He pushed one plate — a bun, a few meat balls and sour cream to me. I tried to decline. He seemed happy. He pulled out his phone and seemed to be typing busily. Then he pushed the phone to me. It was a translator application. “My English isn’t good. :)”, he’d typed in. I pulled up the translator app on my phone and soon we were talking.&lt;/p&gt;
+&lt;p&gt;“I’m going to Spain tonight. Later I’ll come back to Italy”&lt;/p&gt;
+&lt;p&gt;“That sounds awesome. Are you on vacation?”&lt;/p&gt;
+&lt;p&gt;“No. I’m trying to find a job. Need to find something that can pay 5000 euros in one go!”&lt;/p&gt;
+&lt;p&gt;“Oh! Is that even possible?!, I wondered. “So, when are you going back home?”&lt;/p&gt;
+&lt;p&gt;“I can’t go back. They’ll catch me.”&lt;/p&gt;
+&lt;p&gt;I didn’t understand. But looking at his face, I thought it was better not to ask. He pushed the phone to me- it was a photo of his five month old baby Miriam, and his wife in his town in Ukraine.&lt;/p&gt;
+&lt;p&gt;“Don’t you miss them?”&lt;/p&gt;
+&lt;p&gt;“I do, terribly. But there’s nothing I can do. I’m broke. I need to get them out of the country.”&lt;/p&gt;
+&lt;p&gt;“But, why can’t you go back?” I typed.&lt;/p&gt;
+&lt;p&gt;He typed something in Russian. The screen showed, “I killed two people.&lt;/p&gt;
+&lt;p&gt;I froze.&lt;/p&gt;
+&lt;p&gt;“They’ll kill me if I go back. Or give me life imprisonment”&lt;/p&gt;
+&lt;p&gt;I suddenly became aware of my odd sitting position- with the left leg stretched under the table and the right resting on the other lap. I dragged the stretched leg close. It sounded so loud. I became aware of Me’s gaze, who was probably amused by the strange exchange. I resorted to a long sip from my huge tea cup, which in doing so, managed to cover most of my face. Andrew seemed to look away, like a person who thinks he is being judged.&lt;/p&gt;
+&lt;p&gt;One of the most troubling questions I’ve dealt with is how do people come to terms with themselves after they take another’s life, knowingly or unknowingly. There are sayings in many cultures that paraphrase to “the sin of killing is forgiven in eating” and seems to justify dining on meat. It even sounds like an ethical justification suited to anthropophagus communities. A dear friend who’d accidentally hit a stray kitten took him to the vet and made him his pet in reparation. When it is so troubling even with animals, how could one forgive himself for hurting another human?&lt;/p&gt;
+&lt;p&gt;Andrew pushed the phone to me once again- “they hurt my wife and kid. I couldn’t do anything else at that moment”. He pulled up his sleeves. Long scratch marks all over his elaborate tattoos on both arms. Then pointed to his toothless jaw. “They did this”.&lt;/p&gt;
+&lt;p&gt;I felt sorry for him. There I was talking to a victim of war crimes, fleeing his homeland fearing for his life, cut off from the family. The stories are real, I remember thinking, that these happen still, in this century.&lt;/p&gt;
+&lt;p&gt;After a long moment, I gathered enough breath and voice to ask, “What next?”&lt;/p&gt;
+&lt;p&gt;“Going to finish a job in Spain.”&lt;/p&gt;
+&lt;p&gt;“What’s your job?”&lt;/p&gt;
+&lt;p&gt;“Sniper specialist”, the screen read.&lt;/p&gt;
+&lt;p&gt;He showed me a photo of him and a colleague in military uniforms- him carrying a long sniper barrel, his friend supporting what looked like an RPG on the back of a white Hilux. He was a sniper during the civil war in the Russian speaking provinces of Ukraine.&lt;/p&gt;
+&lt;p&gt;He sat staring at the empty plate. I gulped down the lukewarm tea left.&lt;/p&gt;
+&lt;p&gt;“Look at us…. You’re a good man…. So am I…. No problems….Thank you….. for listening”. He said in his broken English and gestures.&lt;/p&gt;
+&lt;p&gt;“Hope you soon… back with family… Miriam”, I said in mine.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;True story.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;*name changed.&lt;/p&gt;
+&lt;p&gt;Published originally on &lt;a href=&#34;http://www.storygrapher.org&#34;&gt;www.storygrapher.org&lt;/a&gt;, ©John Sebastian&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Academic: the website builder for Hugo</title>
-      <link>john-seb.github.io/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>john-seb.github.io/post/getting-started/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://sourcethemes.com/academic/#expo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;👉 &lt;a href=&#34;#install&#34;&gt;&lt;strong&gt;Get Started&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;📚 &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View the &lt;strong&gt;documentation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💬 &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Ask a question&lt;/strong&gt; on the forum&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;👥 &lt;a href=&#34;https://spectrum.chat/academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/source_themes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@source_themes&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%23MadeWithAcademic&amp;amp;src=typd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithAcademic&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💡 &lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;⬆️ &lt;strong&gt;Updating?&lt;/strong&gt; View the &lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;❤️ &lt;strong&gt;Support development&lt;/strong&gt; of Academic:
-&lt;ul&gt;
-&lt;li&gt;☕️ &lt;a href=&#34;https://paypal.me/cushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Donate a coffee&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💵 &lt;a href=&#34;https://www.patreon.com/cushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Become a backer on &lt;strong&gt;Patreon&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🖼️ &lt;a href=&#34;https://www.redbubble.com/people/neutreno/works/34387919-academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Decorate your laptop or journal with an Academic &lt;strong&gt;sticker&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;👕 &lt;a href=&#34;https://academic.threadless.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wear the &lt;strong&gt;T-shirt&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;👩‍💻 &lt;a href=&#34;https://sourcethemes.com/academic/docs/contribute/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Contribute&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-academic-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; data-caption=&#34;Academic is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34;&gt;
-
-
-  &lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; alt=&#34;&#34;  &gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Academic is mobile first with a responsive design to ensure that your site looks stunning on every device.
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
-&lt;p&gt;&lt;strong&gt;Key features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://sourcethemes.com/academic/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://sourcethemes.com/academic/docs/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://sourcethemes.com/academic/themes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 15+ language packs including English, 中文, and Português&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-&lt;p&gt;Academic comes with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can  choose their preferred mode - click the sun/moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/themes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully &lt;a href=&#34;https://sourcethemes.com/academic/docs/customization/#custom-theme&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;customizable&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-admin&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic Admin&lt;/a&gt;:&lt;/strong&gt; An admin tool to import publications from BibTeX or import assets for an offline site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-scripts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic Scripts&lt;/a&gt;:&lt;/strong&gt; Scripts to help migrate content to new versions of Academic&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;install&#34;&gt;Install&lt;/h2&gt;
-&lt;p&gt;You can choose from one of the following four methods to install:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-web-browser&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;one-click install using your web browser (recommended)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-git&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;install on your computer using &lt;strong&gt;Git&lt;/strong&gt; with the Command Prompt/Terminal app&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-zip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;install on your computer by downloading the &lt;strong&gt;ZIP files&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;install on your computer with &lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Then &lt;a href=&#34;https://sourcethemes.com/academic/docs/get-started/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;personalize and deploy your new site&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;updating&#34;&gt;Updating&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View the Update Guide&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Feel free to &lt;em&gt;star&lt;/em&gt; the project on &lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt; to help keep track of &lt;a href=&#34;https://sourcethemes.com/academic/updates&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;updates&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+      <title>Big Fish and Blue Genies</title>
+      <link>john-seb.github.io/post/blue-genies/</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>john-seb.github.io/post/blue-genies/</guid>
+      <description>&lt;p&gt;We the ’95 kids have a very trivial privilege – we can remember which class we attended which year. Always. My father buys a lot of books into our ever growing, huge library. And he expects me to read them all! Once, when I was in 5th, he quoted something from “Khazakinte Ithihasam“ (The Legend of Khasak by O V Vijayan) and asked, to my blank face,”haven’t you read it yet? “. I was only ten!&lt;/p&gt;
+&lt;p&gt;It was another rainy June; 2004. The first monsoon had just set in. The rains that begin early in the dawn as a slow shower of tiny droplets, then becoming heavy precipitation when it’s time to leave home for school, and drench you so intimately – keep you cold and at the verge of peeing all through the day.&lt;/p&gt;
+&lt;p&gt;The second bout of rains begins by mid September. During this stretch, the skies send prophecies of unstinting showers every afternoon by sending distant thunders that come closer hour after hour. Finally the sky empties itself as the National Anthem ends and the last bell is rung. You reach home in wet uniforms, under an umbrella that had probably questioned its purpose. The house welcomes you to its cozy darkness and the aroma of hot coffee and fried snacks. (Branchy trees flanking the streets would embrace the electric lines and short circuit the entire village. Electricity wouldn’t return until very late).&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;./map.jpg&#34; alt=&#34;John Sebastian&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;*Our valley in the summer. Courtesy: Google Earth. Sadly the location of the Yellow Bridge on the map is wrong. *&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Our school was so finicky about uniforms, especially shoes. However, during the rains you could wear other footwear – but only black ones, with backstraps; even on Wednesdays, the all- white day of the week. So, in the June of my 4th standard, I got a new pair of sandals. Very lightweight, waterproof and weird, hard black. I loved those!&lt;/p&gt;
+&lt;p&gt;The saddest aspect of going to school then wasn’t the monsoon. It was that the cousins who’d come home for vacation from Banglore and Bombay would go back only by the end of the month. Theirs’ reopened only in July! Everyday, we’d leave them home. We’d sit through classes while they watched the rain through the bedside window, snuggling under our grandfather’s warm blanket.&lt;/p&gt;
+&lt;p&gt;In the evenings we’d run along the road across the vast fields that filled the valley and the canal cleaving it. And we’d go out, even without changing, to race paper boats, to jump into the overflowing stream from the canopy hiding it from the Yellow Bridge,and finally sit on the concrete ridges (which had just been built then) of the canal that ran to the center of the paddy fields. The concrete ridges were taller than the clay bunds, carried a lot of water and its flat top would dry quickly after a rain. We’d dangle our legs in the water, feel the hydrillia tangle about the toes and watch tiny fish race past, constantly struggling to fight the virile monsoon gush.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;./bridge.jpg&#34; alt=&#34;John Sebastian&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;em&gt;The landscape reminded me of home.&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;The canal opens out at the middle of the paddy fields into a deep ‘sinkhole’ from where water traverses to all directions, overflowing over bunds. Tiny islands of clay with an overgrowth of paddy and grass float around on its relatively stagnant boundaries.&lt;/p&gt;
+&lt;p&gt;One Wednesday, we were on the ridge, kicking water at each other, when one of our aunts called us in. I pulled myself out and immediately noticed that I was limping. Instinctively, I looked into the canal and saw my left sandal sailing downstream crazily. The current was fierce, but I was never the guy who gave up! (Still not!) I started chasing it, grabbed a piece of branch that my brother threw towards me and plunged it over the fleeing footwear. And missed. As I gained speed, my legs took over. It felt like riding a mad contraption. Sans brakes.&lt;/p&gt;
+&lt;p&gt;The sandal rushed past the opening of the canal. I applied all my brakes hard. Yet leapt into the air, and landed into the clayey colloid of a pond. It was quite a spectacle of daredevilry, my cousins can testify! I kept plunging up and down as would a hanging bobbin or a sinking buoy. One moment, a strip of blue sky, green grass, random screams and a strong gasp. The next, brown clayey water, frantic splashing, weightlessness.&lt;/p&gt;
+&lt;p&gt;The current was pushing me out. I stretched my arms and grabbed some grass by the hair. The clay broke off and I was sinking again. The floating islands of clay had formed a cave underneath. A hidden world. Of monstrous fish and genies. Would have been a great story, had I learnt to swim and dive. Finally the feet felt the ground. I thought, ‘rockbottom’. I kicked hard. And was stuck in the mud. I knew it was my last day, that I’d be gone forever. I remembered that I was wearing all- whites, as a proper dead man should be.&lt;/p&gt;
+&lt;p&gt;I felt a sudden pull, the water hoicking me down. Someone was pulling me up, a strong grasp. I was hauled up laid on the grass. I realised that beneath the green grass under me was the cave, and knew that the clay islands were going to break apart any minute. As I scrambled further away from the pond, my hands found my sandal behind me, which had been ‘washed ashore’ and resting peacefully while I was transcending the boundaries of heaven and earth. That little feeling is called ‘happyness’!&lt;/p&gt;
+&lt;p&gt;We, my uncles, cousins, father and I took a route far out from the sinkhole to the canal ridge and set home. Both my feet wore heavy shoes of clay from the great depths. I knocked my heels on the ridge and kicked into the waters to scrape the clay away. Finally, when it complied and broke off, the right foot was bare.&lt;/p&gt;
+&lt;p&gt;I was, perhaps, too tired to be sad. For everyone else, it was a fine laugh, a huge relief. We took the heroic left foot sandal back home- the footwear that found its way about the current, while I needed to be rescued. The right sandal, I suppose, found its way to the other world- one with the big fish and blue genies.&lt;/p&gt;
+&lt;p&gt;As we walked back in a line along the canal, my father, who was holding my fingers in his palm, asked me, “didn’t you know how to swim?”&lt;/p&gt;
+&lt;p&gt;As told to friends at the &amp;ldquo;Bloom in Green&amp;rdquo; festival in the beautiful Agumbe, Karnataka, India. The landscape reminded me of home.&lt;/p&gt;
 </description>
     </item>
     
