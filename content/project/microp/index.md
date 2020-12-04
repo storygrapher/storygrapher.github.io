@@ -1,14 +1,17 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: Detection of Microplastics in Inland Waters using Impedance Spectroscopy
+summary: Making a frugal device to detect the 99% of microplastics that do undetected in our waters; Supervised by Dr Manu Prakash
 tags:
-- Demo
-date: "2016-04-27T00:00:00Z"
+- academic
+- research
+- frugal science
+- project
+date: "2020-11-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: http://example.org
+external_link: https://www.notion.so/Team-FishEye-a2dc826721a14dd88e1217f9154f4444
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: Flyer by Team FishEye
   focal_point: Smart
 ---
