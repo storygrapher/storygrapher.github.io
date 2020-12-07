@@ -38,11 +38,11 @@ image:
 ![**John Sebastian**](./1.jpg) 
 | | |
 |:-------------------------:|:-------------------------:|
-|  ![**John Sebastian**](./2.jpg)  | ![**John Sebastian**](./3.JPG) 
+|  ![**John Sebastian**](./2.jpg)  | ![**John Sebastian**](./3.jpg) 
 |  ![**John Sebastian**](./4.jpg)  | ![**John Sebastian**](./5.jpg)  
-| ![**John Sebastian**](./6.jpeg)   | ![**John Sebastian**](./7.jpeg)  
+| ![**John Sebastian**](./6.jpg)   | ![**John Sebastian**](./7.jpg)  
 |  ![**John Sebastian**](./8.jpg)  | ![**John Sebastian**](./9.jpg)  
-| ![**John Sebastian**](./10.jpeg)   | ![**John Sebastian**](./11.jpeg)  
+| ![**John Sebastian**](./10.jpg)   | ![**John Sebastian**](./11.jpg)  
 
  <div class=text-justify> 
 </div>
