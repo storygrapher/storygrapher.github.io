@@ -20,8 +20,7 @@ interests:
 - Applied Mechanics
 - Biophysics
 - Composite Materials
-- Experimental Development
-- Mathematical Modelling 
+- Micro, Nano. Bio Fluidics
 - Bio Inspired Design
 
 # education:
