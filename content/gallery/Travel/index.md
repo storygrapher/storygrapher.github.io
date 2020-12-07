@@ -15,7 +15,7 @@ categories:
 - gallery
 
 
-featured: false
+featured: true
 draft: false
 
 # Featured image
