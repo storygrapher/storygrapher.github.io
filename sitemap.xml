@@ -44,7 +44,52 @@
   
   <url>
     <loc>https://john-seb.github.io/authors/</loc>
-    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://john-seb.github.io/categories/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://john-seb.github.io/gallery/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://john-seb.github.io/category/gallery/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://john-seb.github.io/author/john-sebastian/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://john-seb.github.io/tag/memories/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://john-seb.github.io/category/storygrapher/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://john-seb.github.io/tag/storytelling/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://john-seb.github.io/gallery/travel/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://john-seb.github.io/tag/travel/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -58,37 +103,7 @@
   </url>
   
   <url>
-    <loc>https://john-seb.github.io/categories/</loc>
-    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://john-seb.github.io/author/john-sebastian/</loc>
-    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://john-seb.github.io/tag/memories/</loc>
-    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://john-seb.github.io/post/</loc>
-    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://john-seb.github.io/category/storygrapher/</loc>
-    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://john-seb.github.io/tag/storytelling/</loc>
-    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://john-seb.github.io/tag/travel/</loc>
     <lastmod>2019-12-02T00:00:00+00:00</lastmod>
   </url>
   
