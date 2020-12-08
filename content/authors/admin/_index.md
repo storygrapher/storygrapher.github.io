@@ -6,7 +6,7 @@ title: StoryGrapher
 superuser: true
 
 # Role/position
-#role: Researcher/Engineer
+role: Vox Oculus
 
 # Organizations/Affiliations
 organizations:
