@@ -88,7 +88,7 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "4johnsebastian@gmail.com"
+email = ""
 phone = ""
 
 # Address
@@ -127,7 +127,7 @@ contact_links = [
 sharing_image = "prof.jpeg"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "johnmcseb"
+#twitter = "johnmcseb"
 
 ############################
 ## Regional Settings
@@ -181,7 +181,7 @@ plugins_js  = []
   gravatar = false
 
   # Choose a shape for avatar images. Options: circle, square.
-  shape = "circle"
+  shape = "square"
 
 # Configuration of publication pages.
 [publications]
