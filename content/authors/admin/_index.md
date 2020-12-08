@@ -34,26 +34,10 @@ About Me: multivariable problems; drama of nature
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 #social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: "mailto:4johnsebastian@gmail.com"  # For a direct email link, use "mailto:4johnsebastian@gmail.com".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/johnmcseb
 - icon: instagram
   icon_pack: fab
   link: https://instagram.com/i.john.sebastian
-#- icon: google-scholar
- # icon_pack: ai
-  #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#- icon: github
-  #icon_pack: fab
-  #link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/media/cv.pdf` and uncomment the lines below.
-# icon: cv
-# icon_pack: ai
-# link: media/cv.pdf
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
