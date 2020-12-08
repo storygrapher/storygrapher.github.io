@@ -40,7 +40,7 @@ About Me: multivariable problems; drama of nature
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/johnmcseb
-#- icon: linkedin
+- icon: instagram
   icon_pack: fab
   link: https://instagram.com/i.john.sebastian
 #- icon: google-scholar
