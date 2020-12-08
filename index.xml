@@ -1,30 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>John Sebastian</title>
-    <link>https://john-seb.github.io/</link>
-      <atom:link href="https://john-seb.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>John Sebastian</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>John Sebastian 2020</copyright><lastBuildDate>Fri, 27 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <title>StoryGrapher</title>
+    <link>https://storygrapher.github.io/</link>
+      <atom:link href="https://storygrapher.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>StoryGrapher</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>John Sebastian 2020</copyright><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://john-seb.github.io/media/prof.jpeg</url>
-      <title>John Sebastian</title>
-      <link>https://john-seb.github.io/</link>
+      <url>https://storygrapher.github.io/media/prof.jpeg</url>
+      <title>StoryGrapher</title>
+      <link>https://storygrapher.github.io/</link>
     </image>
     
     <item>
-      <title>Detection of Microplastics in Inland Waters using Impedance Spectroscopy</title>
-      <link>https://john-seb.github.io/project/microp/</link>
-      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://john-seb.github.io/project/microp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Honey, I shrunk.......</title>
-      <link>https://john-seb.github.io/gallery/micros/</link>
+      <link>https://storygrapher.github.io/gallery/micros/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://john-seb.github.io/gallery/micros/</guid>
+      <guid>https://storygrapher.github.io/gallery/micros/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./1.jpg&#34; alt=&#34;John Sebastian&#34;&gt; &lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -62,9 +54,9 @@
     
     <item>
       <title>Take Fotos, Leave Footprints</title>
-      <link>https://john-seb.github.io/gallery/travel/</link>
+      <link>https://storygrapher.github.io/gallery/travel/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://john-seb.github.io/gallery/travel/</guid>
+      <guid>https://storygrapher.github.io/gallery/travel/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./1.jpg&#34; alt=&#34;John Sebastian&#34;&gt; &lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -163,9 +155,9 @@
     
     <item>
       <title>Berliner Breakfast</title>
-      <link>https://john-seb.github.io/post/berliner-breakfast/</link>
+      <link>https://storygrapher.github.io/post/berliner-breakfast/</link>
       <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://john-seb.github.io/post/berliner-breakfast/</guid>
+      <guid>https://storygrapher.github.io/post/berliner-breakfast/</guid>
       <description>&lt;div class=text-justify&gt; 
 &lt;p&gt;For many months now, I have had a strange circadian disorder — every morning, I wake up and look at the clock and it reads 6.10 AM, regardless of time zones. Many years ago I’d observed that I couldn’t stay awake beyond 2.15 in the morning. I’d later say all these to my new friends in Vienna and be asked to consult a ‘numerologist’.&lt;/p&gt;
 &lt;p&gt;The spring was still hungover and sleepy from an unusually cold winter this year. I woke up at 6.10 and couldn’t go back to sleep. Anyway, to sleep is the last thing one would want to do on the first morning of a long expedition.&lt;/p&gt;
@@ -222,9 +214,9 @@
     
     <item>
       <title>Slides</title>
-      <link>https://john-seb.github.io/slides/example/</link>
+      <link>https://storygrapher.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://john-seb.github.io/slides/example/</guid>
+      <guid>https://storygrapher.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -348,9 +340,9 @@ Three
     
     <item>
       <title>Big Fish and Blue Genies</title>
-      <link>https://john-seb.github.io/post/blue-genies/</link>
+      <link>https://storygrapher.github.io/post/blue-genies/</link>
       <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://john-seb.github.io/post/blue-genies/</guid>
+      <guid>https://storygrapher.github.io/post/blue-genies/</guid>
       <description>&lt;div class=text-justify&gt; 
 &lt;p&gt;We the ’95 kids have a very trivial privilege – we can remember which class we attended which year. Always. My father buys a lot of books into our ever growing, huge library. And he expects me to read them all! Once, when I was in 5th, he quoted something from “Khazakinte Ithihasam“ (The Legend of Khasak by O V Vijayan) and asked, to my blank face,”haven’t you read it yet? “. I was only ten!&lt;/p&gt;
 &lt;p&gt;It was another rainy June; 2004. The first monsoon had just set in. The rains that begin early in the dawn as a slow shower of tiny droplets, then becoming heavy precipitation when it’s time to leave home for school, and drench you so intimately – keep you cold and at the verge of peeing all through the day.&lt;/p&gt;
@@ -393,40 +385,6 @@ Three
 &lt;p&gt;&lt;em&gt;As told to friends at the &amp;ldquo;Bloom in Green&amp;rdquo; festival in the beautiful Agumbe, Karnataka, India. The landscape reminded me of home.&lt;/em&gt;
 &lt;em&gt;Published originally on &lt;a href=&#34;http://www.storygrapher.org&#34;&gt;www.storygrapher.org&lt;/a&gt;, ©John Sebastian&lt;/em&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
-    </item>
-    
-    <item>
-      <title>Rapid and Low- Cost Fabrication of Microfluidic Panels</title>
-      <link>https://john-seb.github.io/project/microf/</link>
-      <pubDate>Sat, 30 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://john-seb.github.io/project/microf/</guid>
-      <description>&lt;p&gt;Development of a frugal alternative to the expensive lithographic methods that are the state-of-the-art in the fabrication of microfluidic panels.
-This approach makes use of a direct cutting scheme in which the device is divided into several 2D panels. Microfluidic channels are narrow as 150 micrometers could be made on these layers with the required precision using a craft cutter with a modified tip.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microfluidics for the World</title>
-      <link>https://john-seb.github.io/talk/microf1/</link>
-      <pubDate>Tue, 19 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://john-seb.github.io/talk/microf1/</guid>
-      <description>&lt;object data=&#34;https://john-seb.github.io/media/microf1.pdf&#34; type=&#34;application/pdf&#34; width=&#34;700px&#34; height=&#34;700px&#34;&gt;
-    &lt;embed src=&#34;https://john-seb.github.io/media/microf1.pdf&#34;&gt;
-        &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&#34;https://john-seb.github.io/media/microf1.pdf&#34;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
-    &lt;/embed&gt;
-&lt;/object&gt;</description>
-    </item>
-    
-    <item>
-      <title>Film-Evaporation Microthruster for Cubesats</title>
-      <link>https://john-seb.github.io/talk/microt/</link>
-      <pubDate>Mon, 11 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://john-seb.github.io/talk/microt/</guid>
-      <description>&lt;object data=&#34;https://john-seb.github.io/media/microt1.pdf&#34; type=&#34;application/pdf&#34; width=&#34;700px&#34; height=&#34;700px&#34;&gt;
-    &lt;embed src=&#34;https://john-seb.github.io/media/microt1.pdf&#34;&gt;
-        &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&#34;https://john-seb.github.io/media/microt1.pdf&#34;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
-    &lt;/embed&gt;
-&lt;/object&gt;</description>
     </item>
     
   </channel>

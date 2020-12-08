@@ -3,196 +3,135 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://john-seb.github.io/tag/academic/</loc>
-    <lastmod>2020-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://john-seb.github.io/project/microp/</loc>
-    <lastmod>2020-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://john-seb.github.io/tag/frugal-science/</loc>
-    <lastmod>2020-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://john-seb.github.io/</loc>
-    <lastmod>2020-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://john-seb.github.io/tag/project/</loc>
-    <lastmod>2020-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://john-seb.github.io/project/</loc>
-    <lastmod>2020-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://john-seb.github.io/tag/research/</loc>
-    <lastmod>2020-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://john-seb.github.io/tags/</loc>
-    <lastmod>2020-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://john-seb.github.io/authors/</loc>
+    <loc>https://storygrapher.github.io/authors/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://john-seb.github.io/categories/</loc>
+    <loc>https://storygrapher.github.io/categories/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://john-seb.github.io/gallery/</loc>
+    <loc>https://storygrapher.github.io/gallery/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://john-seb.github.io/category/gallery/</loc>
+    <loc>https://storygrapher.github.io/category/gallery/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://john-seb.github.io/gallery/micros/</loc>
+    <loc>https://storygrapher.github.io/gallery/micros/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://john-seb.github.io/author/john-sebastian/</loc>
+    <loc>https://storygrapher.github.io/tag/microscale/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://john-seb.github.io/tag/microscale/</loc>
+    <loc>https://storygrapher.github.io/tag/microscopy/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://john-seb.github.io/tag/microscopy/</loc>
+    <loc>https://storygrapher.github.io/tag/nature/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://john-seb.github.io/tag/nature/</loc>
+    <loc>https://storygrapher.github.io/category/research/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://john-seb.github.io/category/research/</loc>
+    <loc>https://storygrapher.github.io/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://john-seb.github.io/tag/memories/</loc>
+    <loc>https://storygrapher.github.io/author/storygrapher/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://storygrapher.github.io/tags/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://storygrapher.github.io/tag/memories/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://john-seb.github.io/category/storygrapher/</loc>
+    <loc>https://storygrapher.github.io/category/storygrapher/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://john-seb.github.io/tag/storytelling/</loc>
+    <loc>https://storygrapher.github.io/tag/storytelling/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://john-seb.github.io/gallery/travel/</loc>
+    <loc>https://storygrapher.github.io/gallery/travel/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://john-seb.github.io/tag/travel/</loc>
+    <loc>https://storygrapher.github.io/tag/travel/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://john-seb.github.io/post/berliner-breakfast/</loc>
+    <loc>https://storygrapher.github.io/post/berliner-breakfast/</loc>
     <lastmod>2019-12-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://john-seb.github.io/category/blog/</loc>
+    <loc>https://storygrapher.github.io/category/blog/</loc>
     <lastmod>2019-12-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://john-seb.github.io/post/</loc>
+    <loc>https://storygrapher.github.io/post/</loc>
     <lastmod>2019-12-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://john-seb.github.io/slides/</loc>
+    <loc>https://storygrapher.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://john-seb.github.io/slides/example/</loc>
+    <loc>https://storygrapher.github.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://john-seb.github.io/post/blue-genies/</loc>
+    <loc>https://storygrapher.github.io/post/blue-genies/</loc>
     <lastmod>2018-12-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://john-seb.github.io/tag/childhood/</loc>
+    <loc>https://storygrapher.github.io/tag/childhood/</loc>
     <lastmod>2018-12-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://john-seb.github.io/tag/microengineering/</loc>
-    <lastmod>2016-04-30T00:00:00+00:00</lastmod>
+    <loc>https://storygrapher.github.io/publication_types/</loc>
   </url>
   
   <url>
-    <loc>https://john-seb.github.io/tag/microfluidics/</loc>
-    <lastmod>2016-04-30T00:00:00+00:00</lastmod>
+    <loc>https://storygrapher.github.io/publication/</loc>
   </url>
   
   <url>
-    <loc>https://john-seb.github.io/project/microf/</loc>
-    <lastmod>2016-04-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://john-seb.github.io/tag/rapid-prototyping/</loc>
-    <lastmod>2016-04-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://john-seb.github.io/talk/microf1/</loc>
-    <lastmod>2016-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://john-seb.github.io/talk/</loc>
-    <lastmod>2016-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://john-seb.github.io/talk/microt/</loc>
-    <lastmod>2016-04-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://john-seb.github.io/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>https://john-seb.github.io/publication/</loc>
+    <loc>https://storygrapher.github.io/talk/</loc>
   </url>
   
 </urlset>
