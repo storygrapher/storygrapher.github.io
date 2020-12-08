@@ -31,8 +31,9 @@ About Me: multivariable problems; drama of nature
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-
-#social:
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+social:
 - icon: instagram
   icon_pack: fab
   link: https://instagram.com/i.john.sebastian
