@@ -1,12 +1,12 @@
 ---
 # Display name
-title: John Sebastian
+title: StoryGrapher
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Researcher/Engineer
+#role: Researcher/Engineer
 
 # Organizations/Affiliations
 organizations:
@@ -14,14 +14,8 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-About Me: Mechanics; Applied Mathematics; Engineering for Biology
+About Me: multivariable problems; drama of nature
 
-interests:
-- Applied Mechanics
-- Biophysics
-- Composite Materials
-- Micro, Nano. Bio Fluidics
-- Bio Inspired Design
 
 # education:
  # courses:
@@ -39,16 +33,16 @@ interests:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: "mailto:4johnsebastian@gmail.com"  # For a direct email link, use "mailto:4johnsebastian@gmail.com".
-- icon: twitter
+#social:
+#- icon: envelope
+#  icon_pack: fas
+#  link: "mailto:4johnsebastian@gmail.com"  # For a direct email link, use "mailto:4johnsebastian@gmail.com".
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/johnmcseb
+#- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/johnmcseb
-- icon: linkedin
-  icon_pack: fab
-  link: https://linkedin.com/in/john-sebastian
+  link: https://instagram.com/i.john.sebastian
 #- icon: google-scholar
  # icon_pack: ai
   #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -57,9 +51,9 @@ social:
   #link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/media/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: media/cv.pdf
+# icon: cv
+# icon_pack: ai
+# link: media/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -74,6 +68,6 @@ highlight_name: false
 #- Visitors
 ---
 
-Hello! I am a scientist and engineer pursuing interdisciplinary research in biophysics, soft matter, composite materials, and complex systems. A common thread in my research is looking for the relation between geometry (at smaller and smaller scales) and the associated physics- especially of air/ hydrofoils, flexible structures, architectured materials and (micro)fluidic systems. I aim to develop technologies and tools to aid the study of the natural world around us, for the engineering of biology and to build solutions to unmet societal needs.
+A talkative scientist with a ‘thing’ for multi variable problems- materials, fluid mechanics, humans and cultures. A history buff who loves reading as much as writing. Documents life, others’ and mine, in words and images.
 
-*(Building this site a few kilobytes at a time! On the journey to completeness)*
+*To observe is to seek the drama in the commonplace- in the laboratory, on the streets* 
